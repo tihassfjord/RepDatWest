@@ -6,10 +6,9 @@ This repository contains code and data for my machine learning coursework. Curre
 
 ### Description
 
-In this assignment, I developed a binary classifier to distinguish between Pop and Classical songs using logistic regression. The dataset was preprocessed by scaling key features like `liveness` and `loudness`, which were selected as the primary predictors. The model was trained using Stochastic Gradient Descent (SGD), and I experimented with various learning rates to optimize the model's performance.
+In this assignment, I built a binary classifier to distinguish between Pop and Classical songs using logistic regression. The dataset was preprocessed by scaling key features like liveness and loudness, which were selected as the primary predictors. The model was trained using Stochastic Gradient Descent (SGD), and I experimented with various learning rates to optimize the model's performance.
 
-The final model achieved a training accuracy of 92.10% and a test accuracy of 91.85%, demonstrating that feature scaling had a significant impact on improving model performance.
-
+The final model achieved a training accuracy of 92.10% and a test accuracy of 91.85%, demonstrating that feature scaling had a significant impact on improving model performance
 
 ### Requirements
 
