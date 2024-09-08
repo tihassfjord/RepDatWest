@@ -10,24 +10,6 @@ In this assignment, I developed a binary classifier to distinguish between Pop a
 
 The final model achieved a training accuracy of 92.10% and a test accuracy of 91.85%, demonstrating that feature scaling had a significant impact on improving model performance.
 
-### Repository Structure
-assignment1/
-│
-├── code/
-│   ├── assignment1.ipynb            # Jupyter notebook with full code and analysis
-│   ├── assignment1_2.ipynb          # Additional notebook for model experiments
-│
-├── data/
-│   ├── SpotifyFeatures.csv          # Filtered dataset used for model training
-│
-├── report/
-│   ├── assignment1_torivar_hassfjord.pdf # Final report for assignment 1
-│   ├── FYS_2021_Assignment1.pdf          # Assignment description
-│
-├── .gitignore
-├── README.md                         # Overview of the project
-├── requirements.txt                  # Required dependencies
-
 
 ### Requirements
 
