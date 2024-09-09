@@ -11,8 +11,9 @@ In this assignment, I built a binary classifier to distinguish between Pop and C
 The final model achieved a training accuracy of 92.10% and a test accuracy of 91.85%, demonstrating that feature scaling had a significant impact on improving model performance
 
 ##
-- assignment1.ipynb: Contains the main code for the assignment, including data preprocessing, model training, and evaluation.
+- assignment1_torivar_hassfjord.ipynb: Contains the main code for the assignment, including data preprocessing, model training, and evaluation.
 - assignment1_various.ipynb: Explores additional experiments with different learning rates and visualizes the decision boundary.
+- assignment1_cleanup.ipynb: A small effort to try and clean up assignment1_torivar_hassfjord.ipynb
 - report/: Contains the final report submitted for the assignment, including all figures and analysis.
 
 ### Requirements
