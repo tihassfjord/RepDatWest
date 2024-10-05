@@ -28,7 +28,7 @@ The assignment also includes a comparison of different optimization techniques, 
 
 ### Contents
 
-- **`assignment2/code/assignment2_final.ipynb`:** The main notebook for implementing and analyzing linear regression with gradient descent.
+- **`assignment2/code/assignment2_final.ipynb`:** The main notebook for problem 2.
 - **`assignment2/data/data_problem2.csv`:** Dataset used for training and testing the model.
 - **`assignment2/data/loss_surface.png`:** Visual representation of the loss surface for gradient descent optimization.
 - **`assignment2/data/momentum_example.png`:** Visualization of the effect of momentum on gradient descent.
